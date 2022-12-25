@@ -1,3 +1,3 @@
-#variable "name" {
-# default = "terraform-etütt"
-#}
+variable "name" {
+ default = "terraform-etütt"
+}
