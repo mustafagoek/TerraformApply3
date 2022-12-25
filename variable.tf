@@ -1,3 +1,5 @@
 variable "name" {
- default = "terraform-etütt"
+  default = "terraform-etutt"
 }
+
+
